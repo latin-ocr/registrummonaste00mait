@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registrummonaste00mait_0009.png"; bbox 0 0 1839 2652; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 708 928 1105 972">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 708 928 1105 972">
+     <span class='ocr_line' id='line_1_1' title="bbox 708 928 1105 972; baseline 0.013 -5"><span class='ocrx_word' id='word_1_1' title='bbox 708 928 1105 972; x_wconf 82' lang='lat' dir='ltr'><strong>PRESENTED</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 402 1081 1408 1442">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 402 1081 1408 1442">
+     <span class='ocr_line' id='line_1_2' title="bbox 867 1081 937 1116; baseline 0.014 -1"><span class='ocrx_word' id='word_1_2' title='bbox 867 1081 937 1116; x_wconf 86' lang='lat' dir='ltr'><strong>TO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 402 1205 1408 1311; baseline 0.009 -21"><span class='ocrx_word' id='word_1_3' title='bbox 402 1241 575 1291; x_wconf 87' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 626 1205 1107 1295; x_wconf 78' lang='lat' dir='ltr'><strong>MAITLAND</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1158 1247 1408 1311; x_wconf 80' lang='lat' dir='ltr'>CLUB,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 880 1408 944 1442; baseline 0.016 -1"><span class='ocrx_word' id='word_1_6' title='bbox 880 1408 944 1442; x_wconf 83' lang='lat' dir='ltr'><strong>BY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 527 1571 1292 1618">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 527 1571 1292 1618">
+     <span class='ocr_line' id='line_1_5' title="bbox 527 1571 1292 1618; baseline 0.008 -8"><span class='ocrx_word' id='word_1_7' title='bbox 527 1571 654 1611; x_wconf 91' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 684 1572 850 1612; x_wconf 87' lang='lat' dir='ltr'><strong>EARL</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 879 1575 954 1614; x_wconf 83' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 982 1575 1292 1618; x_wconf 81' lang='lat' dir='ltr'>GLASGOW.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
